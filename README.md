@@ -1,2 +1,2 @@
 # Solar-company
-Solar company website using html and css and js
+This project is a simple, responsive website for a solar company, created using only HTML and CSS. 
